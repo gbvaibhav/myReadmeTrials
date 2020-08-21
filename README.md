@@ -3,4 +3,6 @@
 ## Writing a Heading 
 use the prefix # followed by the heading
 use the prefix ## for a lower order heading 
-### 3rd order Heading
+### 3rd Order Heading
+#### 4th Order Heading
+##### 5th Order Heading
